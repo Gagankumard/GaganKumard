@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 i'am Gagan Kumar D
 
 <!--
 **Gagankumard/GaganKumard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
